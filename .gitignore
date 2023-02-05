@@ -1,0 +1,3 @@
+# Ignore the files and folder to avoid them from pushing them to public repository
+node_modules/
+.env

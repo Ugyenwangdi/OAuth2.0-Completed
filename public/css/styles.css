@@ -1,0 +1,22 @@
+
+body {
+  background-color: #E8ECEF;
+  text-align: center;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.oauthbox {
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
